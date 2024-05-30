@@ -4,4 +4,4 @@
 
 - Ndfts.py - Computes the N point DFTs of a signal
 
-- spectrum.py - Plots the spectrum of a signal
+- signal_spectrum.py - Plots the spectrum of a signal
